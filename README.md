@@ -62,7 +62,6 @@ I'm a student pursuing Bachelors in Technology...
   <code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
   <code><img title="BootStrap5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
 </p>
-<hr>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
