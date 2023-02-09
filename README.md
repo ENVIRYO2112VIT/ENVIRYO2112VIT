@@ -25,6 +25,7 @@
 </div>
 
 
+<div align="center">
 
 ## 🚀 About Me
 I'm a student pursuing Bachelors in Technology...
@@ -38,6 +39,8 @@ I'm a student pursuing Bachelors in Technology...
 ⚡️ Fun fact: I love to learn new stuffs, so I always am eager to pickup new techs. Also, I love to play Badminton !
 
 <br><br>
+
+</div>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
